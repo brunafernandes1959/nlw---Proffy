@@ -46,5 +46,5 @@ git clone git@github.com:brunafernandes1959/nlw---Proffy.git
 
 3º- Rode o comando : npm run dev
 
-obs: Lembrando que o [git](https://git-scm.com/doc) e o [node.js](https://nodejs.org/en/download/) deve estar instalado no seu computador para rodar esse comando.
+obs: Lembrando que o [git](https://git-scm.com/doc) e o [node.js](https://nodejs.org/en/download/) devem estar instalados no seu computador para rodar esses comandos.
 ## Projeto desenvolvido com muita dedicação durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
