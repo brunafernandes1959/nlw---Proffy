@@ -41,10 +41,10 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 1º- Clone o repositório com o comando via terminal:
 git clone git@github.com:brunafernandes1959/nlw---Proffy.git
-obs: Lembrando que o git deve estar instalado no seu computador para rodar esse comando.
 
 2º- Rode o comando : npm install
 
 3º- Rode o comando : npm run dev
 
+obs: Lembrando que o [git](https://git-scm.com/doc) e o [node.js](https://nodejs.org/en/download/) deve estar instalado no seu computador para rodar esse comando.
 ## Projeto desenvolvido com muita dedicação durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
