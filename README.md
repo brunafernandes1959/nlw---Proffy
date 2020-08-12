@@ -37,3 +37,14 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+## Como iniciar:
+
+1º- Clone o repositório com o comando via terminal:
+git clone git@github.com:brunafernandes1959/nlw---Proffy.git
+obs: Lembrando que o git deve estar instalado no seu computador para rodar esse comando.
+
+2º- Rode o comando : npm install
+
+3º- Rode o comando : npm run dev
+
+## Projeto desenvolvido com muita dedicação durante a Next Level Week da [Rockeatseat](https://rocketseat.com.br/).
