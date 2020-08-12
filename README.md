@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="Proffy" src=".github/public/images/logo.svg" />
+    <img alt="Proffy" title="Proffy" src="/public/images/logo.svg" />
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/public/images/proffy.png" width="100%">
+  <img alt="Proffy" src="/public/images/proffy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -47,4 +47,4 @@ obs: Lembrando que o git deve estar instalado no seu computador para rodar esse 
 
 3º- Rode o comando : npm run dev
 
-## Projeto desenvolvido com muita dedicação durante a Next Level Week da [Rockeatseat](https://rocketseat.com.br/).
+## Projeto desenvolvido com muita dedicação durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
